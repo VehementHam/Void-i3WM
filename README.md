@@ -5,7 +5,7 @@ Kitty
 Firefox  
 Theme - https://addons.mozilla.org/en-US/firefox/addon/nord-milav/  
 Extensions - Ublock Origin, Dark Reader, I don't care about cookies, Tridactyl  
-Search engine - https://searx.ericaftereric.top/search
+Search engine - https://searx.ericaftereric.top
 
 # File Manager 
 Krusader
