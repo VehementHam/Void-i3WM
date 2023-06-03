@@ -1,5 +1,3 @@
-# Void-i3WM
-
 # Terminal
 Kitty
 
