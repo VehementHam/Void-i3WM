@@ -1,26 +1,26 @@
 # Void-i3WM
 
-Terminal
+# Terminal
 Kitty
 
-Web browser
+# Web browser
 Firefox
 Theme - https://addons.mozilla.org/en-US/firefox/addon/nord-milav/
 Extensions - Ublock Origin, Dark Reader, I don't care about cookies
 
-File Manager 
+# File Manager 
 Krusader
 
-Email Client
+# Email Client
 Thunderbird
 
-Discord Client
+# Discord Client
 Armcord
 Theme - https://betterdiscord.app/theme/Nordic
 Client Mod - Vencord
 
-Audio Mixer Client
+# Audio Mixer Client
 Pavucontrol
 
-Text Editor
+# Text Editor
 NeoVim, Geany
